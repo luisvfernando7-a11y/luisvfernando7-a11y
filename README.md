@@ -106,18 +106,6 @@ Buscando minha primeira oportunidade de **Estágio em Desenvolvimento Backend**.
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisvfernando7-a11y&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisvfernando7-a11y&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
 
 ## Connect
 
